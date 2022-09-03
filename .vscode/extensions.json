@@ -1,0 +1,28 @@
+{
+  "recommendations": [
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "mikestead.dotenv",
+    "dsznajder.es7-react-js-snippets",
+    "dbaeumer.vscode-eslint",
+    "miguelsolorio.fluent-icons",
+    "cschleiden.vscode-github-actions",
+    "me-dutour-mathieu.vscode-github-actions",
+    "eamodio.gitlens",
+    "oderwat.indent-rainbow",
+    "bierner.markdown-checkbox",
+    "pkief.material-icon-theme",
+    "christian-kohler.path-intellisense",
+    "esbenp.prettier-vscode",
+    "gruntfuggly.todo-tree",
+    "ph1p.zeit-co-vscode-schemas",
+    "redhat.vscode-yaml",
+    "bierner.markdown-preview-github-styles",
+    "ms-vscode.vscode-github-issue-notebooks",
+    "github.github-vscode-theme",
+    "gitpod.gitpod-desktop",
+    "jock.svg",
+    "ms-vscode-remote.remote-containers",
+    "johnpapa.vscode-peacock"
+  ]
+}
